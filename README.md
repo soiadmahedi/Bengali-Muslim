@@ -1,6 +1,13 @@
-# বাঙালি মুসলিম - অ্যাপ ও ওয়েবসাইট (Bengali Muslim)
+<div align="center">
+  <img src="https://github.com/soiadmahedi/Bengali-Muslim/blob/main/icon-192.png?raw=true" alt="Bengali Muslim App Icon" width="128" />
+  <h1>বাঙালি মুসলিম - অ্যাপ ও ওয়েবসাইট (Bengali Muslim)</h1>
+</div>
 
 "বাঙালি মুসলিম" (Bengali Muslim) হলো বাংলাভাষী মুসলিমদের জন্য তৈরি একটি পূর্ণাঙ্গ ইসলামিক লাইফস্টাইল এবং কনটেন্ট প্ল্যাটফর্ম। এই প্রজেক্টের মূল লক্ষ্য হলো দৈনন্দিন ইবাদত, কুরআন-হাদিস অধ্যয়ন এবং ইসলামিক জ্ঞান অর্জনকে প্রযুক্তিগতভাবে আরও সহজ ও সাবলীল করে তোলা।
+
+<div align="center">
+  <img src="https://github.com/soiadmahedi/Bengali-Muslim/blob/main/bengalimuslimweb-review-ss.jpg?raw=true" alt="Bengali Muslim Platform Screenshot" width="100%" />
+</div>
 
 এই ডিরেক্টরিতে আমাদের অ্যাপ্লিকেশন সম্পর্কিত তথ্য ও সোর্স কোড/ডাউনলোড ফাইল রাখা আছে।
 
